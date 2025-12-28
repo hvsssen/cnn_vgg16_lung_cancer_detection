@@ -236,6 +236,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **Hassen**
 - GitHub: [@hvsssen](https://github.com/hvsssen)
 - Email: hvsssen7@gmail.com
+- Email: hassen.slim@etudiant-enit.utm.tn
 
 ## Contact
 
